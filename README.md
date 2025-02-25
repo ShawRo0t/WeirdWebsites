@@ -10,3 +10,4 @@
 | 5   | num6bit.kikirara.jp     | Please note the flashing images and sounds on the page | 5           |
 | 6   | lomando.com  | Online interactive horror games | 5           |
 | 7   | wwwwwwwww.jodi.org  | Filled with chaos, technical glitches, and aberrant visuals | 2           |
+| 8   | cameronsworld.net  | web collage built with images and texts found on the GeoCities pages created between 1994 and 2009 | 1           |
